@@ -1,0 +1,19 @@
+header{
+    background-image: url("Assets/Hero-bg.png");
+    
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.website-name{
+
+}
+
+.sing-up-button{
+    
+}
