@@ -71,4 +71,77 @@ header{
     color: white;
     padding: 12px 36px;
     border-radius: 5px;
+    font-weight: bold;
+}
+.action-section{
+    display: flex;
+    max-width: 1140px ;
+    height: 328px;
+    justify-content: space-between;
+    margin: 116px auto;
+    align-items: center;
+}
+
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+
+.action-subtitle{
+    color: #252432;
+    font-size: 24px;
+    opacity: 50%;
+    
+}
+
+.action-button{
+    padding: 12px 36px ;
+    background-color: #4E47FF;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 6px;
+}
+
+.action-section-image{
+    border-radius: 20px;
+
+}
+
+.Productive-Users-Section{
+    max-width: 1140px ;
+    height: 306px;
+    margin: 0 auto;
+    background-color:#f0f3ff;
+    padding: 50px;
+    border-radius: 24px;
+    text-align: center;
+
+    
+    
+}
+
+.productive-title{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+    margin-top: 50px 0 40px;
+}
+
+.productive-three-data{
+    display: flex;
+    justify-content: space-around;
+}
+
+.productive-data{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.productive-subtitle{
+    color: #000000;
+    font-size: 20px;
+    opacity: 50%;
 }
